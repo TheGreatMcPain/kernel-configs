@@ -10,6 +10,6 @@ GPU: GTX 1050 2Gb VRAM
 
 My Laptop "laptop"
 
-CPU: Intel i3-3110M 2.40GHz
-RAM: 4Gb 1600Mhz DDR3
+CPU: Intel i3-3110M 2.40GHz  
+RAM: 4Gb 1600Mhz DDR3  
 GPU: Intel HD Graphics 4000 (Ivybridge Mobile)
